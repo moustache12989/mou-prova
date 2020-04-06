@@ -107,7 +107,11 @@ p {
 
   .nav-wrapper
   {
-    padding: center;
+    padding: -20 10px;
+  }
+  .sidenav
+  {
+    padding-left: 0px;
   }
 }
 
