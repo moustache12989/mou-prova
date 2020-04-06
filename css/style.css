@@ -113,6 +113,11 @@ p {
   {
     padding-left: 0px;
   }
+  .section-intro
+  {
+    height: 100%;
+    width: 100%;
+  }
 }
 
 .material-icons
