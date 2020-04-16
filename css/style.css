@@ -118,6 +118,14 @@ p {
     height: 100%;
     width: 100%;
   }
+  .logo
+  {
+    position: center;
+  }
+  h4
+  {
+    font-size: 1em;
+  }
 }
 
 .material-icons
