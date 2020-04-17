@@ -131,6 +131,10 @@ p {
   {
     font-size: 14px;
   }
+  .parallax img
+  {
+    max-width: 100%;
+  }
 
 }
 
