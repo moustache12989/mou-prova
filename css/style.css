@@ -51,13 +51,15 @@ nav .brand-logo {
 .btn-large
 {
   margin-bottom: 30px;
-  background-color: #FE6611;
+  background-color: #000;
+  border-radius: 50px;
 }
 
 .btn-large.hover
 {
   margin-bottom: 30px;
-  background-color: rgba(254,102,17,0.6);
+  background-color: #fff;
+  color: #000;
 }
 
 
@@ -92,7 +94,7 @@ p {
 
 .header-subtitle
 {
-  margin-top: 10%;
+  margin-top: 10px;
   font-size: 1.3em;
 }
 
@@ -125,14 +127,11 @@ p {
     height: 100%;
     width: 100%;
   }
-  .logo
-  {
-    position: center;
-  }
   h4
   {
     font-size: 14px;
   }
+
 }
 
 .material-icons
@@ -142,7 +141,6 @@ p {
 
 .col-servizio
 {
-  margin-top: 60px;
   margin-bottom: 100px;
 }
 
